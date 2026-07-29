@@ -17,7 +17,11 @@ DTF-emerging-fisheries/
 ├── simulations/
 │   └── DTF_simulation_reproducible_final.R
 ├── figures/
-│   ├── Figure 2.png
+│   ├── Figure_1.png
+│   ├── Figure_2.png
+│   ├── Figure_3.png
+│   ├── Figure_4.png
+│   ├── Figure_5.png
 │   ├── Figure_S1.png
 │   ├── Figure_S2.png
 │   ├── Figure_S3.png
