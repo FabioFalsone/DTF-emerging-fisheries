@@ -12,7 +12,7 @@ The Decision-Tree Framework (DTF) combines an automated landing-based screening 
 ```text
 DTF-emerging-fisheries/
 ├── app/
-│   ├── Shiny_app_DTF.R
+│   ├── Shiny_App_DTF.R
 │   └── example_data.csv
 ├── simulations/
 │   └── DTF_simulation_reproducible_final.R
