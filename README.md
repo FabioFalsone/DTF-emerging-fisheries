@@ -92,7 +92,7 @@ install.packages("patchwork")
 From the repository root:
 
 ```r
-source("simulations/DTF_simulation_reproducible_final.R")
+source("simulations/DTF_simulation.R")
 ```
 
 The full workflow is computationally intensive. Output tables and figures are written to `tables/` and `figures/` in the active working directory.
@@ -111,7 +111,7 @@ Automated screening requires at least six unique and consecutive annual observat
 
 ## Figures
 
-The `figures/` directory contains main-text Figure 2 and Supplementary Figures S1-S5 supplied with the manuscript revision.
+The figures/ directory contains main-text Figures 1-5 and Supplementary Figures S1-S5.
 
 ## Reproducibility note
 
