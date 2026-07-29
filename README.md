@@ -53,7 +53,7 @@ install.packages(c(
 From the repository root:
 
 ```r
-source("app/Shiny_app_DTF.R")
+source("app/Shiny_App_DTF.R")
 ```
 
 The application also includes embedded example data. The same dataset is provided separately in `app/example_data.csv`.
